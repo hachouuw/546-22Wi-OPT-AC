@@ -1,2 +1,2 @@
-# 546-22Wi-OPT-AC
-EE546 Amber's Course Materials and HW
+# 546-22wi-opt-lrn
+course materials for ECE 546 -- optimization and learning for control -- taught in Winter 2022
